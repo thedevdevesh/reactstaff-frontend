@@ -36,3 +36,7 @@
     transform: rotate(360deg);
   }
 }
+
+.pagination .active a {
+  background-color: hsl(20, 100%, 50%); /* Set your desired filled color */
+}
